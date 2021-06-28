@@ -1,0 +1,30 @@
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\nunit.engine.api.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\nunit.engine.core.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+D:\Cognizant\class material\NUnit code reference\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\nunit.engine.api.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\nunit.engine.core.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csprojAssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunit-Handson 1\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
