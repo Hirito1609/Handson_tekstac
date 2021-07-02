@@ -1,0 +1,7 @@
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\bin\Debug\Namedparams.exe.config
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\bin\Debug\Namedparams.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\bin\Debug\Namedparams.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\obj\Debug\Namedparams.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\obj\Debug\Namedparams.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\obj\Debug\Namedparams.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Namedparams\obj\Debug\Namedparams.pdb

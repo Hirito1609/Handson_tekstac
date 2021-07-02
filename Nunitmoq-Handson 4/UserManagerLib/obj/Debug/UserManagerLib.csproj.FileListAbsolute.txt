@@ -1,0 +1,6 @@
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 4\UserManagerLib\bin\Debug\UserManagerLib.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 4\UserManagerLib\bin\Debug\UserManagerLib.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 4\UserManagerLib\obj\Debug\UserManagerLib.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 4\UserManagerLib\obj\Debug\UserManagerLib.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 4\UserManagerLib\obj\Debug\UserManagerLib.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 4\UserManagerLib\obj\Debug\UserManagerLib.pdb

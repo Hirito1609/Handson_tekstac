@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<string>
+@foreach (var organization in Model)
+{
+    <div>
+    @if (organization.Equals("Amazon"))
+    {
+        <span><b>@Html.DisplayFor(o => organization)</b></span>
+    }
+    else
+    {
+        <span>@Html.DisplayFor(o => organization)</span>
+    }
+    </div>
+}

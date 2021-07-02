@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<PartialView.Models.Employee>
+@{
+    ViewData["Title"] = "GetEmployeeList";
+    <div class= "row" >
+        <span class="col-md-4"> Name </span>
+        <span class="col-md-4"> Salary </span>
+        <span class="col-md-4"> IsPermanent </span>
+    </div>
+}
+
+@foreach (var employee in Model)
+{
+    <div class= "row" >
+    @if (employee.IsPermanent.Equals(true))
+    {
+
+        <span class="col-md-4"><b> @employee.Name </b></span>
+        <span class="col-md-4"><b> @employee.Salary </b></span>
+        <span class="col-md-4"><b> @employee.IsPermanent </b></span>
+
+    }
+    else
+    {
+        <span class= "col-md-4" > @employee.Name </span>
+        <span class= "col-md-4" > @employee.Salary </span>
+        <span class= "col-md-4" > @employee.IsPermanent </span>
+    }
+    </div >
+}

@@ -1,0 +1,6 @@
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 2\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 2\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 2\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 2\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 2\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 2\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

@@ -1,0 +1,6 @@
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 6\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 6\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 6\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 6\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 6\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+D:\Cognizant\Handson-git\Handson_tekstac\Nunitmoq-Handson 6\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

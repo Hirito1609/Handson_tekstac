@@ -1,0 +1,7 @@
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\bin\Debug\Asyncawait.exe.config
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\bin\Debug\Asyncawait.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\bin\Debug\Asyncawait.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\obj\Debug\Asyncawait.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\obj\Debug\Asyncawait.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\obj\Debug\Asyncawait.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\Asyncawait\obj\Debug\Asyncawait.pdb

@@ -1,0 +1,16 @@
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\Helloworld.exe
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\Helloworld.deps.json
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.json
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\Helloworld.runtimeconfig.dev.json
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\Helloworld.dll
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\ref\Helloworld.dll
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\bin\Debug\net5.0\Helloworld.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfoInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.AssemblyInfo.cs
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.dll
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\ref\Helloworld.dll
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\ASP.NetCore-Handson 1\Helloworld\obj\Debug\net5.0\Helloworld.genruntimeconfig.cache

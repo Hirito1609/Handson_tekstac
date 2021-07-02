@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ModelViewBindingHandson.Models.Employee>
+
+@{
+    ViewData["Title"] = "GetEmployeeList";
+}
+
+<h1>GetEmployeeList</h1>
+
+<div class= "row">
+    <span class="col-md-4" > Name </span>
+    <span class="col-md-4" > Salary </span>
+    <span class="col-md-4" > IsPermanent </span>
+</div>
+
+@foreach (var employee in Model)
+{
+    <div class= "row">
+    @if (employee.IsPermanent.Equals(true))
+    {
+        <span class= "col-md-4" ><b> @employee.Name </b></span>
+        <span class= "col-md-4" ><b> @employee.Salary </b></span>
+        <span class= "col-md-4" ><b> @employee.IsPermanent </b></span>
+    }
+    else
+    {
+        <span class="col-md-4"> @employee.Name </span>
+        <span class="col-md-4"> @employee.Salary </span>
+        <span class="col-md-4"> @employee.IsPermanent </span>
+    }
+    </div>
+}

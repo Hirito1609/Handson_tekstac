@@ -1,0 +1,10 @@
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.exe.config
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.Form1.resources
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.Properties.Resources.resources
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.GenerateResource.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.exe
+D:\Cognizant\Handson-git\Handson_tekstac\C#Additional-Handson 1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.pdb
