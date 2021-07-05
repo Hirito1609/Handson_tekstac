@@ -1,0 +1,5 @@
+2021-07-05 13:14:16,937 INFO mylog - This is an information message
+2021-07-05 13:14:22,307 INFO mylog - This is an information message
+2021-07-05 13:14:23,068 DEBUG mylog - This is a debug message
+2021-07-05 13:14:23,939 WARN mylog - This is a warning message
+2021-07-05 13:14:25,226 INFO mylog - This is an information message
