@@ -1,0 +1,7 @@
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\bin\Debug\CodeAnalysis.exe
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.AssemblyReference.cache
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\obj\Debug\CodeAnalysis.exe
+D:\Cognizant\Handson-git\Handson_tekstac\CodeAnalysis-Handson 1\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
