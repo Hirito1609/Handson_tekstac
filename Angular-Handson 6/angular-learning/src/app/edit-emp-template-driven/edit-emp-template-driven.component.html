@@ -1,0 +1,53 @@
+<div class="block">
+    <h2>Edit Employee</h2>
+    <form (ngSubmit)='onSubmit()' #empForm>
+        <label for="name">Name</label>
+        <input type="text" name="name" [(ngModel)]="emp.name" #name="ngModel" required minlength="2" maxlength="10">
+        <div class="form-control-feedback">
+            <p *ngIf="name.errors?.minlength" style="color: red;">Name must be atleast 2 characters long</p>
+        </div>
+        <br>
+        <br>
+        <label for="salary">Salary</label>
+        <input type="number" name="salary" [(ngModel)]="emp.salary" #salary="ngModel" required>
+        <div class="form-control-feedback">
+            <p *ngIf="salary.errors?.required" style="color: red;">Salary is required</p>
+        </div>
+        <br>
+        <br>
+        <label for="permanent">Is it Permanent or Not?</label>
+        <input type="radio" name="permanent" id="permanentTrue" [(ngModel)]="emp.permanent" [value]='true' >Yes
+        <input type="radio" name="permanent" id="permanentFalse" [(ngModel)]="emp.permanent" [value]='false' >No
+        <br>
+        <br>
+        <select name="department" id="department" [(ngModel)]="emp.DepartmentId" >
+            <option *ngFor="let item of departmentlist" [value]="item.DepartmentId" 
+            [selected]='emp.DepartmentId == item.DepartmentId'>{{item.DepartmentName}}</option>
+        </select>
+        <br>
+        <br>
+        <button type="submit" [disabled]="!empForm.valid">Save</button>
+        
+    </form>
+    <br>
+    {{name.value}}
+    <br>
+    <div>name.invalid - {{name.invalid}}</div>
+
+    <div>name.touched - {{name.touched}}</div>
+
+    <div>name.dirty - {{name.dirty}}</div>
+
+    <div>name.errors.required - {{name.errors?.required}}</div>
+
+    <div>name.errors.minlength - {{name.errors?.minlength | json}}</div>
+</div>
+<div class="block">
+    <strong>Employee Model</strong><br>
+    <pre>{{emp | json }}</pre>
+</div>
+<div class="block">
+    <strong>Angular Generated Form Model</strong><br>
+    <pre>{{empForm.value | json}}</pre>
+</div>
+

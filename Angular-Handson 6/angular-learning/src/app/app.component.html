@@ -1,0 +1,19 @@
+<style>
+    body {
+    font-family: Segoe UI, Arial
+
+
+  }
+a
+{ text-decoration: none }
+</style>
+<h3> Angular Learning<br> <a [routerLink] = "['/']"> View Employees </a> ||
+  <a [routerLink] = "['/EditEmployees']"> Edit Employees </a> ||  
+  <a [routerLink] = "['QuantityIncrement']"> Quantity Increment </a> ||
+  <a [routerLink] = "['EditEmpTemplate']"> Edit Employee (Template Driven) </a> ||
+  <a [routerLink] = "['EditEmpReactive']"> Edit Employee (Reactive) </a> ||
+  <a [routerLink] = "['EmployeeList']"> Employee List </a> ||
+  <a [routerLink] = "['Login']"> Login </a>
+</h3>
+<div>                    
+  <router-outlet></router-outlet>

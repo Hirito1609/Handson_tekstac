@@ -1,0 +1,15 @@
+<div>
+    <h3>Employee Details</h3>
+    <p><strong> ID: </strong>{{emp.id}}</p>
+    <p><strong> Name: </strong>{{emp.name}}</p>
+    <p><strong> Salary: </strong>{{emp.salary}}</p>
+    <p><strong> Permenant: </strong>{{emp.permanent}}</p>
+    <p><strong> DepartmentId: </strong>{{emp.DepartmentId}}</p>
+    <p><strong> DepartmentName: </strong>{{emp.DepartmentName}}</p>
+    <span><strong> Skill Id Skill Name</strong></span>
+    <ul style="list-style-type: none;">
+      <li *ngFor="let item of emp.skills">{{item.SkillId}} {{item.SkillName}}</ li>
+    </ul>
+    <p><strong> Date Of Birth: </strong>{{emp.dateOfBirth}}</p>
+  
+  </div>

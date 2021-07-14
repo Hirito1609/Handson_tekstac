@@ -1,0 +1,16 @@
+<h2>Employee Details</h2>
+
+<div class="cardblock">
+    <br>
+    Name : {{empObj.name}}
+    <br>
+    <br>
+    Salary : {{empObj.salary | currency : "INR"}}
+    <br>
+    <br>
+    Permanent : {{empObj.permanent}}
+    <br>
+    <br>
+    <a class="editLink" [routerLink]="['/edit-emp-reactive', empObj.id]">Edit
+    </a>
+</div>

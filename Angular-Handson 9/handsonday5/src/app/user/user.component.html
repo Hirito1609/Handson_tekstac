@@ -1,0 +1,18 @@
+<div class="some">
+  <input type="button" value="Get Users" (click)="retrieveAllUser()" />
+  <br><br>
+  <table border="2" cellspacing="0">
+    <tr>
+      <th>Photo</th>
+      <th>Details</th>
+    </tr>
+    <tr *ngFor="let item of user.data">
+      <td><img width="100" [src]="item.avatar" /></td>
+      <td style="text-align: left">
+        Name : {{ item.first_name }}  {{ item.last_name }}
+        <br>
+        Email : {{ item.email }}
+      </td>
+    </tr>
+  </table>
+</div>

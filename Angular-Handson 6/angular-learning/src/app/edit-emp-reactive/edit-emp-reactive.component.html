@@ -1,0 +1,33 @@
+<form [formGroup]="empForm">
+  <div>
+    <label>
+      Name:
+      <input formControlName="name" placeholder="Your name" />
+    </label>
+  </div>
+  <div>
+    <label>
+      Salary:
+      <input formControlName="salary" placeholder="Your salary" />
+    </label>
+  </div>
+  <div>
+    <label>
+      Permanent:
+        <input type="radio" formControlName="permanent" id="permanentTrue"  [value]='true' >Yes
+        <input type="radio" formControlName="permanent" id="permanentFalse"  [value]='false' >No
+    </label>
+  </div>
+  <div>
+    <h3>Department</h3>
+    <select formControlName="department">
+      <option
+        *ngFor="let department of departmentlist"
+        [ngValue]="department.DepartmentId"
+        [selected]="department.DepartmentId === emp.DepartmentId">
+        {{ department.DepartmentName }}
+      </option>
+    </select>
+  </div>
+  <button type="submit">Send</button>
+</form>

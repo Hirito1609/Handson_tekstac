@@ -1,0 +1,10 @@
+<input type="button" value="Get Users" id="get-users">
+<table>
+  <tr *ngFor="let user of users">
+    <td><img src="{{user.avatar}}"></td>
+    <td>
+      {{user.first_name}}, {{user.last_name}}<br>
+      {{user.email}}
+    </td>
+  </tr>
+</table>
