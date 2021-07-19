@@ -33,3 +33,23 @@ Status:
     Handson 2 - ✔
     Handson 3 - ✔
     
+# Angular
+    Handson 1 - ✔
+    Handson 2 - ✔
+    Handson 3 - ✔
+    Handson 4 - ✔
+    Handson 5 - ✔
+    Handson 6 - ✔
+    Handson 7 - ✔
+    Handson 8 - ✔
+    Handson 9 - ✔
+    Handson 10 - ✔
+    
+# WebApi
+    Handson 1 - ✔
+    Handson 2 - ✔
+    Handson 3 - ✔
+    Handson 4 - ✔
+    Handson 5 - ✔
+    
+    
