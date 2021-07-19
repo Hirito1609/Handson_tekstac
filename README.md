@@ -18,8 +18,7 @@ Status:
     Handson 3 - ✔
     Handson 4 - ✔
     Handson 5 - ✔
-    Handson 6 - 🕒
-    Handson 7 - 🕒
+    Handson 6 - ✔
     
 # C# Additional
     Handson 1 - ✔
